@@ -1,2 +1,2 @@
 # OpenCV-Projects
-OpenCV projects using Python
+OpenCV projects in Python
